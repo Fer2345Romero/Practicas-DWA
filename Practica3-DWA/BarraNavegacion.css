@@ -1,0 +1,19 @@
+/* CSS personalizado para la barra de navegación */
+.navbar {
+    background-color: #ff006d;
+    border-radius: 0;
+    border: none;
+}
+
+.navbar-brand {
+    color: #fff;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: #fff;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #dccd4c;
+}
